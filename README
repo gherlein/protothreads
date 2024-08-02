@@ -1,3 +1,13 @@
+# Protothreads
+
+This is a copy of the code available [here](https://dunkels.com/adam/pt/).
+
+## Disclaimer
+
+This is not my code.  This was authored by [Adam Dunkels](https://dunkels.com/adam/).  I just copied it to GitHub.
+
+## Description
+
 Protothreads are extremely lightweight stackless threads designed for
 severely memory constrained systems such as small embedded systems or
 sensor network nodes. Protothreads can be used with or without an
